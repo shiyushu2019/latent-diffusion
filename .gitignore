@@ -1,0 +1,8 @@
+nohup.out
+.vscode/
+__pycache__/
+*.egg-info/
+outputs/
+runner/
+models/**/*.ckpt
+data/rdm/
